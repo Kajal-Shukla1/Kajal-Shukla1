@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **Early Warning System**
 
-- 🌱 I’m currently learning **ReactJS, JS**
+- 🌱 I’m currently learning **Nextjs , TS**
 
-- 👯 I’m looking to collaborate on **Asp.net projects, Blockchain Ethereum Development,Smart Contract**
+- 👯 I’m looking to collaborate on **Asp.net projects, Frontend Projects(ReactJS, Tailwind/Bootstrap),Smart Contract**
 
 - 🤝 I’m looking for help with **ReactJS**
 
-- 💬 Ask me about **Solidity, Blockchain, DotNet**
+- 💬 Ask me about **Solidity, Frontend Development, DotNet**
 
 - 📫 How to reach me **kajalshukla124@gmail.com**
 
