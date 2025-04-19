@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Asp.net projects, Frontend Projects(ReactJS, Tailwind/Bootstrap),Smart Contract**
 
-- 🤝 I’m looking for help with **ReactJS**
+- 🤝 I’m looking for help with **NextJS**
 
 - 💬 Ask me about **Solidity, Frontend Development, DotNet**
 
